@@ -41,7 +41,7 @@
 
 简单点说就是能够模拟微信环境，让部分只能在微信上做的事儿能够有在pc上模拟出来，而且还是
 可调式状态，主要就是方便开发调试。
-[微信开发者工具官方介绍地址](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1455784140)
+[微信开发者工具官方介绍地址](https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1455784140){:target="_blank"}
 ### **使用注意事项**
 * 想要能够调试一个微信公众号项目，你必须以一个该公众号
 开发者的身份去登录微信开发者工具，
